@@ -22,4 +22,4 @@ The '-Enum' option adds users to the Valid-Usernames.txt file that meet any one 
   - Locked Accounts
   - Account with Expired Passwords
 
-Modifications to original script are marked with '#Enum' - PAN1K
+Modifications to original script are marked with '#Enum' - P4N1K
